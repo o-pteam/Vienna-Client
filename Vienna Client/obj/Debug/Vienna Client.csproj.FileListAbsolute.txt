@@ -1,0 +1,12 @@
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\bin\Debug\Vienna Client.exe.config
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\bin\Debug\Vienna Client.exe
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\bin\Debug\Vienna Client.pdb
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna Client.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna_Client.Form1.resources
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna_Client.Properties.Resources.resources
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna Client.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna Client.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna Client.exe
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna Client.pdb
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna_Client.FASTBOOT_MENU.resources
+C:\Users\Gamer\source\repos\Vienna Client\Vienna Client\obj\Debug\Vienna_Client.flashFastbootMenu.resources
