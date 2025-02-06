@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/License-GPLv3-brightgreen" />
 
 # 💬 Vienna Client
-Vienna Client is an Open Source project made for people that are approaching the world of modding. This app will help the alot. It's a basic Android flasher with everything you need! It supports FASTBOOT AND ADB from Platform-Tools from the Android SDK page.
+Vienna Client is an Open Source project made for people that are approaching the world of modding. This app helps alot. It's a basic Android flasher with everything you need! It supports FASTBOOT AND ADB from Platform-Tools from the Android SDK page.
 
 # 📌 Information
 - Written in C# (.NET Framework 4.7.2)
